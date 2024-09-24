@@ -1,0 +1,3 @@
+# Finetuning with Unsloth
+
+In this repo, I'll finetune four models using Unsloth across a variety of machine learning use-cases. Unsloth allows access to finetune popular LLMs such as LlaMA 3.1, Phi-3.5, Gemma 2, Mistral... and more. They provide a method to apply LoRa finetuning and then convert Unsloth's LoRa Adapted models (useful for speeding up model training by freezing previously trained parameters and adding new trainable parameters) to GGML format (a C library for machine learning models that speeds up distribution and inference).
