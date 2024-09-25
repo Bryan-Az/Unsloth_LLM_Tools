@@ -4,7 +4,7 @@ In this repo, I finetune four models using Unsloth across a variety of machine l
 
 ## Models and Use-cases
 
-All of the models will be finetuned using their 72B parameter version. Unsloth provides pre-trained models that have already been trained for specific tasks. I will further pretrain these models to leverage their pre-existing knowledge.
+All of the models will be finetuned using their 7B parameter AND 4-bit quantized version. Unsloth provides condensed and pre-trained models for specific tasks. I will further pretrain these models to leverage their pre-existing knowledge.
 
 
 1. Qwen 2.5 | Multi-Lingual Chat
