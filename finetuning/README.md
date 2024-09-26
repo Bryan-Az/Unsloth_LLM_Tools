@@ -7,9 +7,9 @@ In this repo, I finetune four models using Unsloth across a variety of machine l
 All of the models will be finetuned using their 7B parameter AND 4-bit quantized version. Unsloth provides condensed and pre-trained models for specific tasks. I will further pretrain these models to leverage their pre-existing knowledge.
 
 
-1. Qwen 2.5 | Multi-Lingual Chat
+1. Qwen 2.5 | Multi-Lingual 'Ethical' Chat
 
-2. Qwen 2.5 Math | Math Problem Solving
+2. Qwen 2.5 Math | Math Problem Solving 
 
 3. Qwen 2.5 Coder | Code Generation in C#
 
