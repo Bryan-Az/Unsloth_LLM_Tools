@@ -8,7 +8,9 @@ Unsloth is a free to use library that can be used to accelerate Large Language M
 
 ## Fine-tuning
 
-[Video Presentation Link](https://youtu.be/T62Ni3zltBM)
+[Video Presentation Link: Base Finetuning](https://youtu.be/T62Ni3zltBM)
+
+[Video Presentation Link: Continued Finetuning](to-do)
 
 ## Reward Modelling
 
