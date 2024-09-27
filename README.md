@@ -17,3 +17,9 @@ Unsloth is a free to use library that can be used to accelerate Large Language M
 ## Supplemented Chat
 
 [Video Presentation Link](to-do)
+
+# References
+
+1. [Unsloth Documentation: Finetuning](https://colab.research.google.com/drive/17d3U-CAIwzmbDRqbZ9NnpHxCkmXB6LZ0?usp=sharing)
+1. [Unsloth Documentation: Continued Pretraining](https://colab.research.google.com/drive/1tEd1FrOXWMnCU9UIvdYhs61tkxdMuKZu?usp=sharing#scrollTo=2eSvM9zX_2d3)
+
