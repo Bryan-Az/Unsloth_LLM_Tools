@@ -1,6 +1,6 @@
 # Supplemented Chat Template
 
-In this section I'll be following Unsloth's chat tempplate documentation to implement the following tasks:
+In this section I'll be following Unsloth's chat template documentation to implement the following tasks:
 
 1. Classification
 2. Conversational chat
