@@ -26,4 +26,6 @@ Unsloth is a free to use library that can be used to accelerate Large Language M
 2. [Unsloth Documentation: Continued Finetuning](https://docs.unsloth.ai/basics/finetuning-from-last-checkpoint)
 3. [Unsloth Documentation: Continued Pretraining](https://colab.research.google.com/drive/1tEd1FrOXWMnCU9UIvdYhs61tkxdMuKZu?usp=sharing#scrollTo=2eSvM9zX_2d3)
 4. [Unsloth Documentation: Reward Modelling](https://docs.unsloth.ai/basics/reward-modelling-dpo-orpo-and-kto)
+5. [Unsloth Documentation: Conversational LLM Training](https://colab.research.google.com/drive/1AZghoNBQaMDgWJpi4RbffGM1h6raLUj9?usp=sharing#scrollTo=QmUBVEnvCDJv)
+6. [Unsloth Documentation: Chat Templates](https://docs.unsloth.ai/basics/chat-templates)
 
